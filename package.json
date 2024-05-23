@@ -18,6 +18,7 @@
     "url": "https://github.com/yhanz15/Tech-titans/issues"
   },
   "dependencies": {
+    "axios": "^1.7.2",
     "modern-normalize": "^1.1.0",
     "swiper": "^11.1.3"
   },
