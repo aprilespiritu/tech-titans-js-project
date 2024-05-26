@@ -18,6 +18,7 @@
     "url": "https://github.com/yhanz15/Tech-titans/issues"
   },
   "dependencies": {
+    "animate": "^1.0.0",
     "animate.css": "^4.1.1",
     "axios": "^1.7.2",
     "basiclightbox": "^5.0.4",
