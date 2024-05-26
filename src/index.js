@@ -1,4 +1,4 @@
-import './js/about-us/modalAbout';
-import './js/constants/refs';
-import './js/features/upbutton/upToTop';
-import './js/movie-gallery';
+// import * as renderingMovieCards from './js/rendering-movie-cards';
+// import * as searchByKeyword from './js/search-by-keyword';
+// import * as openModal from './js/open-and-close-modal';
+import * as teamModal from './js/team-load-to-modal';
